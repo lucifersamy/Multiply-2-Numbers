@@ -1,8 +1,8 @@
 # Multiply-2-Numbers
-Multiplication Capable Machine Learning Model Design  Natural Numbers
+Multiplication Capable Machine Learning Model Design (only Natural Numbers)
 
 
 Tensorflow & Keras
 
 
-(I used similar examples to understand. I created my own dataset by creating it.)
+(I did it to understand. I have used similar examples. I created my own dataset.)
